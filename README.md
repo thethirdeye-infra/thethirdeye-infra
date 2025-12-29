@@ -60,3 +60,8 @@ For professional or institutional inquiries:
 
 > _“When systems are stressed, only truth remains.”_  
 > — TheThirdEye™
+>
+>
+> ## Notes
+This repository contains conceptual notes and system design positions.
+No production code is published here by design.
