@@ -1,3 +1,5 @@
+<img width="2592" height="476" alt="smallKein Titel (Banner (Querformat))" src="https://github.com/user-attachments/assets/47955c6e-557b-4978-83aa-0b8331f2a3de" />
+
 # TheThirdEye™ — Infrastructure & Forensic Systems
 
 I build **deterministic infrastructure** for environments where  
