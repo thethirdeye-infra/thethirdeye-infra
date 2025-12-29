@@ -1,16 +1,60 @@
-## Hi there 👋
+# TheThirdEye™ — Infrastructure & Forensic Systems
 
-<!--
-**thethirdeye-infra/thethirdeye-infra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build **deterministic infrastructure** for environments where  
+*visuals fail, narratives collapse, and correctness is mandatory.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+- **Blockchain Forensics**
+- **Risk & Cluster Analysis**
+- **Deterministic Pipelines**
+- **Court-Ready Outputs (SHA-256, timestamped, verifiable)**
+
+Dashboards do not reduce risk.  
+**Deterministic outputs do.**
+
+---
+
+## What I Work On
+
+- Large-scale wallet & transaction graph analysis  
+- Risk scoring pipelines under adversarial conditions  
+- Immutable forensic reporting (PDF, hash-verifiable)  
+- Systems designed for **audit, law enforcement, and compliance**
+
+No growth hacks.  
+No hype layers.  
+No opaque ML decisions.
+
+---
+
+## Design Principles
+
+- Correctness over speed  
+- Determinism over prediction  
+- Verifiability over persuasion  
+- Infrastructure over interfaces  
+
+If a result cannot be verified independently, it is **not shipped**.
+
+---
+
+## Status
+
+This profile intentionally exposes **infrastructure signals only**.  
+Source code, reports, and system components are published selectively.
+
+---
+
+## Contact
+
+For professional or institutional inquiries:
+
+**messiah-core@thethirdeye.tech**
+
+---
+
+> _“When systems are stressed, only truth remains.”_  
+> — TheThirdEye™
